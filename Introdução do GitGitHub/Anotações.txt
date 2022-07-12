@@ -1,0 +1,10 @@
+# Comandos
+
+git init (inicializa)
+git commit (para atualizar o código)
+git clone (clonar) 
+cd (nome da pasta para entar na pasta)
+git status
+git add . (adiciona pasta/controle de versão local)
+git commit -m "" (para incluir no github)
+
